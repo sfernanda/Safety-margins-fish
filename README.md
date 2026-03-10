@@ -29,3 +29,6 @@ To reproduce the analysis:
 Clone or download this repository.
 Open the .Rproj file in RStudio.
 Install the required packages (if not already installed).
+
+# Note
+The processing and handling data is computationally intensive and may require substantial runtime. If your primary interest is the calculation of safety margins and modelling, you may start directly from code 03.
