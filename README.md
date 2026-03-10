@@ -21,6 +21,8 @@ Fish environmental tolerances available through AquaMaps (https://aquamaps.org/)
 
 Bottom temperature, salinity and oxygen data from the Copernicus Marine Environment Monitoring Service (CMEMS)
 
+Human pressures from Halpern et al. 2019 (https://doi.org/10.1038/s41598-019-47201-9)
+
 Conservation measures available at Protected Planet database through https://www.protectedplanet.net/en
 
 # Reproducibility
@@ -31,4 +33,6 @@ Open the .Rproj file in RStudio.
 Install the required packages (if not already installed).
 
 # Note
-The processing and handling data is computationally intensive and may require substantial runtime. If your primary interest is the calculation of safety margins and modelling, you may start directly from code 03.
+The processing and handling data is computationally intensive and may require substantial runtime. If your primary interest is the calculation of safety margins and modelling, you may start directly from code 5 - Proportion of safe sp.
+
+Some datasets need to be downloaded from their respective website/repositories
