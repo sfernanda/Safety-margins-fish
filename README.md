@@ -1,9 +1,10 @@
 # Project Overview
-This repository contains all analyses and manuscript files for the study “Climate vulnerable fish communities are also most exposed to human pressures”.
+This repository contains all the scripts and data files for the study “Climate vulnerable fish communities are also most exposed to human pressures”.
 
 Authors: Fernanda Silva (fcads@aqua.dtu.dk), Daniël van Denderen, Antoni Vivó-Pons, Federico Maioli, Marcel Montanyès, Martin Lindegren
 
-An archived version of the repository is available on Zenodo DOI
+An archived version of the repository is available on 10.5281/zenodo.18941319
+
 
 # Repository structure
 R/ Contains all R scripts used for the data analysis. This folder includes code for data cleaning, randomization, statistical analysis, and outputs.
@@ -35,4 +36,4 @@ Install the required packages (if not already installed).
 # Note
 The processing and handling data is computationally intensive and may require substantial runtime. If your primary interest is the calculation of safety margins and modelling, you may start directly from code 5 - Proportion of safe sp.
 
-Some datasets need to be downloaded from their respective website/repositories
+Some datasets need to be downloaded from their respective website/repositories prior to the analysis. They are not included in this repository due to size.
